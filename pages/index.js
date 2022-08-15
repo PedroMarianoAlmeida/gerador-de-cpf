@@ -13,8 +13,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Gerador de CPF</h1>
-
         <p className={styles.description}>Essa api retorna CPFs aleatórios!</p>
+        Clique em /cpf-aleatorio e pegue seu JSON
       </main>
     </div>
   );
